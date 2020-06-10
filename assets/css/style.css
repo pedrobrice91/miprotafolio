@@ -20,3 +20,11 @@ background-color:#DDDDDD;
     top: 10px;
     left: 10px;
 }
+@media (min-width: 992px) { 
+    h1.centrado{
+        font-family: 'Balsamiq Sans', cursive;
+        font-weight: bold;
+        font-size: 50pt;
+        
+    }
+}
